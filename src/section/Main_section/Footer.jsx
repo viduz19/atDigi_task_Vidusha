@@ -38,9 +38,7 @@ const Footer = () => {
       </div>
 
       <div className="mt-6 border-t border-white pt-4 text-center text-sm">
-        <p className="cursor-pointer hover:underline">
-          Privacy Policy | Terms & Conditions
-        </p>
+        <p className="cursor-pointer hover:underline">Privacy Policy | Terms & Conditions</p>
       </div>
     </footer>
   );
